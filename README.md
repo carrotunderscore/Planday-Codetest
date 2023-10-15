@@ -14,9 +14,9 @@ An appsettings.json file is needed to run this. Add it to the root of the Planda
     {
       "Database": "DATABASE_URL"
     },
-      "EmployeeApi":
-      { "ApiKey": "API_KEY",
-        "BaseUrl": "BASE_URL"
-      }
-    }
+  "EmployeeApi":
+  { "ApiKey": "API_KEY",
+    "BaseUrl": "BASE_URL"
+  }
+}
 ```
